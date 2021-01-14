@@ -1,0 +1,7 @@
+C:\Users\Галина\source\repos\ДЗ\ДЗ\bin\Debug\ДЗ.exe.config
+C:\Users\Галина\source\repos\ДЗ\ДЗ\bin\Debug\ДЗ.exe
+C:\Users\Галина\source\repos\ДЗ\ДЗ\bin\Debug\ДЗ.pdb
+C:\Users\Галина\source\repos\ДЗ\ДЗ\obj\Debug\ДЗ.csprojAssemblyReference.cache
+C:\Users\Галина\source\repos\ДЗ\ДЗ\obj\Debug\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\Галина\source\repos\ДЗ\ДЗ\obj\Debug\ДЗ.exe
+C:\Users\Галина\source\repos\ДЗ\ДЗ\obj\Debug\ДЗ.pdb
